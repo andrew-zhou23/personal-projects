@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+kaggle_ikea_project/IKEA_product_catalog.csv
+kaggle_ikea_project/*.csv
